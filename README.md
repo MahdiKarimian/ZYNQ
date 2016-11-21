@@ -1,2 +1,2 @@
 # ZYNQ
-why we need mix FPGA and ARM
+Why we need mixed FPGA\ARM SOC
